@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"myproject/cache" // Import the cache package correctly
+	"myproject/cache"
 )
 
 var lruCache *cache.LRUCache
