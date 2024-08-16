@@ -7,3 +7,5 @@ For now URL is static
 In set already exist check is also added
 
 Capity is also handed
+
+We can use git submodule to init frontend code
